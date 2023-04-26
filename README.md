@@ -25,5 +25,6 @@ End the main function.
 
 output:
 
+![Screenshot 2023-04-26 123737](https://user-images.githubusercontent.com/125973911/234498132-0ab6dffd-898c-4abc-a17b-315656dbc1b7.png)
 
 
